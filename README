@@ -1,0 +1,9 @@
+* Use the skeleton python programs server.py and client.py .
+* You are required to fill in the functions declared (but not defined).
+* Please note that you should not define any other funciton of your own 
+  other than those already declared in the skeleton without sufficient reason. 
+  You may be penalised for using extra functions without sufficient reason.
+* A sample Makefile is provided with the code. You can modify this or 
+  write your own scripts to generate the results.
+* You need to write your own code to generate the plots. Functions for 
+  plotting are not in the skeleton.
