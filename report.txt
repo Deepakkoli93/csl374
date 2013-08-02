@@ -1,50 +1,51 @@
-Cumalative RTT : 523.0
-Cumalative RTT : 523.0
-Cumalative RTT : 474.0
-Cumalative RTT : 484.0
-Cumalative RTT : 436.0
-Cumalative RTT : 443.0
-Cumalative RTT : 478.0
-Cumalative RTT : 395.0
-Cumalative RTT : 444.0
-Cumalative RTT : 430.0
-Cumalative RTT : 428.0
-Cumalative RTT : 427.0
-Cumalative RTT : 428.0
-Cumalative RTT : 428.0
-Cumalative RTT : 559.0
-Cumalative RTT : 475.0
-Cumalative RTT : 470.0
-Cumalative RTT : 471.0
-Cumalative RTT : 468.0
-Cumalative RTT : 463.0
-Cumalative RTT : 476.0
-Cumalative RTT : 472.0
-Cumalative RTT : 483.0
-Cumalative RTT : 512.0
-Cumalative RTT : 450.0
-Cumalative RTT : 644.0
-Cumalative RTT : 511.0
-Cumalative RTT : 473.0
-Cumalative RTT : 472.0
-Cumalative RTT : 468.0
-Cumalative RTT : 469.0
-Cumalative RTT : 492.0
-Cumalative RTT : 474.0
-Cumalative RTT : 482.0
-Cumalative RTT : 514.0
-Cumalative RTT : 503.0
-Cumalative RTT : 505.0
-Cumalative RTT : 521.0
-Cumalative RTT : 506.0
-Cumalative RTT : 500.0
-Cumalative RTT : 534.0
-Cumalative RTT : 283.0
-Cumalative RTT : 610.0
-Cumalative RTT : 582.0
-Cumalative RTT : 618.0
-Cumalative RTT : 620.0
-Cumalative RTT : 528.0
-Cumalative RTT : 481.0
-Cumalative RTT : 641.0
-Cumalative RTT : 589.0
+RTT : 565.0
+RTT : 644.0
+RTT : 689.0
+RTT : 682.0
+RTT : 674.0
+RTT : 654.0
+RTT : 704.0
+RTT : 649.0
+RTT : 622.0
+RTT : 618.0
+RTT : 672.0
+RTT : 741.0
+RTT : 3687.0
+RTT : 685.0
+RTT : 652.0
+RTT : 703.0
+RTT : 554.0
+RTT : 614.0
+RTT : 645.0
+RTT : 724.0
+RTT : 723.0
+RTT : 694.0
+RTT : 1250.0
+RTT : 754.0
+RTT : 787.0
+RTT : 644.0
+RTT : 668.0
+RTT : 652.0
+RTT : 661.0
+RTT : 629.0
+RTT : 660.0
+RTT : 680.0
+RTT : 733.0
+RTT : 649.0
+RTT : 621.0
+RTT : 492.0
+RTT : 605.0
+RTT : 726.0
+RTT : 1242.0
+RTT : 664.0
+RTT : 634.0
+RTT : 585.0
+RTT : 701.0
+RTT : 647.0
+RTT : 692.0
+RTT : 639.0
+RTT : 448.0
+RTT : 355.0
+RTT : 668.0
+RTT : 705.0
+Cumulative RTT : 36786.0
